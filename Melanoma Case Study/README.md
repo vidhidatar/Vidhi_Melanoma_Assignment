@@ -139,6 +139,8 @@ the training dataset size for classes having less samples. This along with batch
 ## Contact
 Created by 
 Vidhi Surana Datar [vidhi.s9@gmail.com] - feel free to contact me!
+Yudishthir(dadhichboy2000@gmail.com)
+Namrata (namrata.nanditina@gmail.com)
 
 
 <!-- Optional -->
