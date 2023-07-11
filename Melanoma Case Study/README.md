@@ -55,7 +55,7 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
 
 ## Models used and Conclusions
 Steps to get the final CNN Model
-#1. Model 1 : Base Model
+1. Model 1 : Base Model
     We started with the following Base Model that consisted of:
     - Rescaling Layer
     - 2D Convolution Layer
